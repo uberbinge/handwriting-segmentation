@@ -1,0 +1,8 @@
+C:\EasyPHP-12.1\www\handwriting-segmentation\bin\Debug\rectangle sample.exe
+C:\EasyPHP-12.1\www\handwriting-segmentation\bin\Debug\rectangle sample.pdb
+C:\EasyPHP-12.1\www\handwriting-segmentation\obj\x86\Debug\handwriting-segmentation.csprojResolveAssemblyReference.cache
+C:\EasyPHP-12.1\www\handwriting-segmentation\obj\x86\Debug\handwriting_segmentation.Form1.resources
+C:\EasyPHP-12.1\www\handwriting-segmentation\obj\x86\Debug\handwriting_segmentation.Properties.Resources.resources
+C:\EasyPHP-12.1\www\handwriting-segmentation\obj\x86\Debug\handwriting-segmentation.csproj.GenerateResource.Cache
+C:\EasyPHP-12.1\www\handwriting-segmentation\obj\x86\Debug\rectangle sample.exe
+C:\EasyPHP-12.1\www\handwriting-segmentation\obj\x86\Debug\rectangle sample.pdb

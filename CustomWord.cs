@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace rectangle_sample
+namespace handwriting_segmentation
 {
     class CustomWord
     {

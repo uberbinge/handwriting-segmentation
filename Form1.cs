@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace rectangle_sample
+namespace handwriting_segmentation
 {
     public partial class Form1 : Form
     {
@@ -63,7 +63,7 @@ namespace rectangle_sample
 
             }
 
-            EdgeDectection edgeDectection = new EdgeDectection();
+            EdgeDetection edgeDectection = new EdgeDetection();
             Pen p = new Pen(Color.Red);
 
             edgeDectection.getWordsNew(array, 1, width, 1, height);

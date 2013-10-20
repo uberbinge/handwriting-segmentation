@@ -1,4 +1,4 @@
-﻿namespace rectangle_sample
+﻿namespace handwriting_segmentation
 {
     partial class Form1
     {

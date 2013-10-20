@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Drawing;
 using System.Windows.Forms;
-namespace rectangle_sample
+namespace handwriting_segmentation
 {
-    class EdgeDectection
+    class EdgeDetection
     {
         public List<CustomWord> words = new List<CustomWord>();
        
