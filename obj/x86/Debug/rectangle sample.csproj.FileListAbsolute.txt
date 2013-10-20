@@ -1,0 +1,69 @@
+C:\Users\Mehdi\Documents\Visual Studio 2010\Projects\rectangle sample\rectangle sample\bin\Debug\rectangle sample.exe
+C:\Users\Mehdi\Documents\Visual Studio 2010\Projects\rectangle sample\rectangle sample\bin\Debug\rectangle sample.pdb
+C:\Users\Mehdi\Documents\Visual Studio 2010\Projects\rectangle sample\rectangle sample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehdi\Documents\Visual Studio 2010\Projects\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Form1.resources
+C:\Users\Mehdi\Documents\Visual Studio 2010\Projects\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Properties.Resources.resources
+C:\Users\Mehdi\Documents\Visual Studio 2010\Projects\rectangle sample\rectangle sample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mehdi\Documents\Visual Studio 2010\Projects\rectangle sample\rectangle sample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mehdi\Documents\Visual Studio 2010\Projects\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.exe
+C:\Users\Mehdi\Documents\Visual Studio 2010\Projects\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.pdb
+C:\Users\gcu.GCU-CSD\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.exe
+C:\Users\gcu.GCU-CSD\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.pdb
+C:\Users\gcu.GCU-CSD\Desktop\rectangle sample\rectangle sample\bin\Debug\rectangle sample.exe
+C:\Users\gcu.GCU-CSD\Desktop\rectangle sample\rectangle sample\bin\Debug\rectangle sample.pdb
+C:\Users\gcu.GCU-CSD\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gcu.GCU-CSD\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Form1.resources
+C:\Users\gcu.GCU-CSD\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Properties.Resources.resources
+C:\Users\gcu.GCU-CSD\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gcu.GCU-CSD\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gcu\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.exe
+C:\Users\gcu\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.pdb
+C:\Users\gcu\Desktop\rectangle sample\rectangle sample\bin\Debug\rectangle sample.exe
+C:\Users\gcu\Desktop\rectangle sample\rectangle sample\bin\Debug\rectangle sample.pdb
+C:\Users\gcu\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gcu\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Form1.resources
+C:\Users\gcu\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Properties.Resources.resources
+C:\Users\gcu\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gcu\Desktop\rectangle sample\rectangle sample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Abdul Rehman\Downloads\New folder (9)\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.exe
+C:\Users\Abdul Rehman\Downloads\New folder (9)\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.pdb
+C:\Users\Abdul Rehman\Downloads\New folder (9)\rectangle sample\rectangle sample\bin\Debug\rectangle sample.exe
+C:\Users\Abdul Rehman\Downloads\New folder (9)\rectangle sample\rectangle sample\bin\Debug\rectangle sample.pdb
+C:\Users\Abdul Rehman\Downloads\New folder (9)\rectangle sample\rectangle sample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Abdul Rehman\Downloads\New folder (9)\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Form1.resources
+C:\Users\Abdul Rehman\Downloads\New folder (9)\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Properties.Resources.resources
+C:\Users\Abdul Rehman\Downloads\New folder (9)\rectangle sample\rectangle sample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Abdul Rehman\Downloads\New folder (9)\rectangle sample\rectangle sample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Waqas Ahmed\Desktop\rectangle sample\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.exe
+C:\Users\Waqas Ahmed\Desktop\rectangle sample\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.pdb
+C:\Users\Waqas Ahmed\Desktop\rectangle sample\rectangle sample\rectangle sample\bin\Debug\rectangle sample.exe
+C:\Users\Waqas Ahmed\Desktop\rectangle sample\rectangle sample\rectangle sample\bin\Debug\rectangle sample.pdb
+C:\Users\Waqas Ahmed\Desktop\rectangle sample\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Form1.resources
+C:\Users\Waqas Ahmed\Desktop\rectangle sample\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Properties.Resources.resources
+C:\Users\Waqas Ahmed\Desktop\rectangle sample\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.csproj.GenerateResource.Cache
+E:\d\semester work\7th\DIP\3_Ahmed_Section A\rectangle sample\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.exe
+E:\d\semester work\7th\DIP\3_Ahmed_Section A\rectangle sample\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.pdb
+E:\d\semester work\7th\DIP\3_Ahmed_Section A\rectangle sample\rectangle sample\rectangle sample\bin\Debug\rectangle sample.exe
+E:\d\semester work\7th\DIP\3_Ahmed_Section A\rectangle sample\rectangle sample\rectangle sample\bin\Debug\rectangle sample.pdb
+E:\d\semester work\7th\DIP\3_Ahmed_Section A\rectangle sample\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Form1.resources
+E:\d\semester work\7th\DIP\3_Ahmed_Section A\rectangle sample\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Properties.Resources.resources
+E:\d\semester work\7th\DIP\3_Ahmed_Section A\rectangle sample\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.csproj.GenerateResource.Cache
+E:\d\semester work\7th\DIP\3_Ahmed_Section A\rectangle sample\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.csprojResolveAssemblyReference.cache
+C:\Users\waqas716\Desktop\word recognization assignment\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.exe
+C:\Users\waqas716\Desktop\word recognization assignment\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.pdb
+C:\Users\waqas716\Desktop\Quiz2_Ahmed_SectionA\word recognition assignment\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.exe
+C:\Users\waqas716\Desktop\Quiz2_Ahmed_SectionA\word recognition assignment\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.pdb
+C:\Users\waqas716\Desktop\Quiz2_Ahmed_SectionA\word recognition assignment\rectangle sample\rectangle sample\bin\Debug\rectangle sample.exe
+C:\Users\waqas716\Desktop\Quiz2_Ahmed_SectionA\word recognition assignment\rectangle sample\rectangle sample\bin\Debug\rectangle sample.pdb
+C:\Users\waqas716\Desktop\Quiz2_Ahmed_SectionA\word recognition assignment\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.csprojResolveAssemblyReference.cache
+C:\Users\waqas716\Desktop\Quiz2_Ahmed_SectionA\word recognition assignment\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Form1.resources
+C:\Users\waqas716\Desktop\Quiz2_Ahmed_SectionA\word recognition assignment\rectangle sample\rectangle sample\obj\x86\Debug\rectangle_sample.Properties.Resources.resources
+C:\Users\waqas716\Desktop\Quiz2_Ahmed_SectionA\word recognition assignment\rectangle sample\rectangle sample\obj\x86\Debug\rectangle sample.csproj.GenerateResource.Cache
+C:\EasyPHP-12.1\www\handwriting-segmentation\obj\x86\Debug\rectangle sample.exe
+C:\EasyPHP-12.1\www\handwriting-segmentation\obj\x86\Debug\rectangle sample.pdb
+C:\EasyPHP-12.1\www\handwriting-segmentation\bin\Debug\rectangle sample.exe
+C:\EasyPHP-12.1\www\handwriting-segmentation\bin\Debug\rectangle sample.pdb
+C:\EasyPHP-12.1\www\handwriting-segmentation\obj\x86\Debug\rectangle sample.csprojResolveAssemblyReference.cache
+C:\EasyPHP-12.1\www\handwriting-segmentation\obj\x86\Debug\rectangle_sample.Form1.resources
+C:\EasyPHP-12.1\www\handwriting-segmentation\obj\x86\Debug\rectangle_sample.Properties.Resources.resources
+C:\EasyPHP-12.1\www\handwriting-segmentation\obj\x86\Debug\rectangle sample.csproj.GenerateResource.Cache
